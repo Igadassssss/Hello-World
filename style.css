@@ -1,8 +1,11 @@
 h2{
-    color:#671299
+    color:#671299;
 }
 body{
-    background-color: #5c76ee;
+    background-color: #8398f7;
     font-family:'Courier New', Courier, monospace;
     text-align: center;
+}
+#nome-usuário{
+    font-weight:bold ;
 }
